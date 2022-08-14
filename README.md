@@ -1,7 +1,5 @@
 ## Hi!
 
-Currently on my way to world leading React developer asap.
-
 ---
 
 Would suggest checking out https://github.com/olofaksberg/surret__admin, the most up to date project atm.
